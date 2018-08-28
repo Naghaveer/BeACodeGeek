@@ -1,5 +1,5 @@
-# CodeEatSleep
-Some interesting questions
+# Be A Code Geek
+
 
 Concepts covered
 1. Arrays
